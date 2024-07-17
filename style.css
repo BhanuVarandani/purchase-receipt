@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.box{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(216, 112, 147, 0.685);
+}
+.box1{
+    height: 80%;
+    width: 60%;
+    background-color: rgba(216, 112, 147, 0.87);
+    position: absolute;
+    margin-top: 5%;
+    left: 17%;
+}
+.img1{
+    height: 82%;
+    width: 30%;
+    object-fit: cover;
+    position: absolute;
+    right: 5%;
+    margin-top: 6%;
+}
+.box2{
+    height: 73%;
+    width: 35%;
+    background-color: white;
+    position: absolute;
+    margin-top: 9%;
+    left: 9%;
+}
+h1{
+    position: absolute;
+    margin-top: 2%;
+    left: 3%;
+    font-size: 23px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    position: absolute;
+    margin-top: 24%;
+    left: 3%;
+    font-size: 13px;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+    position: absolute;
+    margin-top: 33%;
+    left: 3%;
+    font-size: 19px;
+    color: rgba(0, 0, 0, 0.862);
+    font-family: 'Times New Roman', Times, serif;
+}
+h4{
+    position: absolute;
+    margin-top: 42%;
+    left: 3%;
+    font-size: 10px;
+    color: rgba(0, 0, 0, 0.796);
+    font-family: 'Times New Roman', Times, serif;
+    gap: 13px;
+}
+.one{
+    position: absolute;
+    margin-top: 33%;
+    right: 3%;
+    font-size: 19px;
+    color: rgba(0, 0, 0, 0.862);
+    font-family: 'Times New Roman', Times, serif;
+}
+.two{
+    position: absolute;
+    margin-top: 42%;
+    right: 3%;
+    font-size: 10px;
+    color: rgba(0, 0, 0, 0.796);
+    font-family: 'Times New Roman', Times, serif;
+    gap: 13px;
+}
+.three{
+    position: absolute;
+    margin-top: 53%;
+    left: 3%;
+    font-size: 14px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.four{
+    position: absolute;
+    margin-top: 53%;
+    right: 3%;
+    font-size: 14px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+h6{
+    position: absolute;
+    margin-top: 65%;
+    left: 3%;
+    font-size: 22px;
+    color: black;
+}
+.img2{
+    height: 6%;
+    width: 19%;
+    position: absolute;
+    margin-top: 77%;
+    left: 4%;
+    object-fit: cover;
+    background-position: center;
+}
+.five{
+    position: absolute;
+    margin-top: 77%;
+    left: 26%;
+    color: rgba(0, 0, 0, 0.901);
+}
+.six{
+    position: absolute;
+    margin-top: 83%;
+    left: 26%;
+    color: rgba(0, 0, 0, 0.69);
+    font-size: 13px;
+}
+.seven{
+    position: absolute;
+    left: 3%;
+    margin-top: 92%;
+    color: rgba(0, 0, 0, 0.752);
+    font-size: 13px;
+}
+.eight{
+    position: absolute;
+    left: 3%;
+    margin-top: 99%;
+    color: rgba(0, 0, 0, 0.752);
+    font-size: 13px;
+}
+.nine{
+    position: absolute;
+    right: 3%;
+    margin-top: 92%;
+    color: rgba(0, 0, 0, 0.752);
+    font-size: 13px;
+}
+.ten{
+    position: absolute;
+right: 3%;
+    margin-top: 99%;
+    color: rgba(0, 0, 0, 0.752);
+    font-size: 13px;
+}
+button{
+    position: absolute;
+    margin-top: 113%;
+    left: 16%;
+    padding: 5px 35px;
+    background-color: rgba(128, 128, 128, 0.679);
+    border: none;
+}
